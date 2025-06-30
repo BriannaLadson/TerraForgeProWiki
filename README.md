@@ -6,7 +6,7 @@ It provides fine-tuned control over terrain shaping, island clustering, and biom
 
 ---
 ## Note!!!
-This repo was created to just host the Wiki for the TerraForgePro library, which you can get [here](https://gum.co/u/rwq2bbml).
+This repo was created to just host the [Wiki](https://github.com/BriannaLadson/TerraForgeProWiki) for the TerraForgePro library, which you can get [here](https://gum.co/u/rwq2bbml).
 
 If you're looking for the free TerraForge version, click [here](https://github.com/BriannaLadson/TerraForge).
 
