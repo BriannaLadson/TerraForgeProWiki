@@ -5,10 +5,12 @@
 It provides fine-tuned control over terrain shaping, island clustering, and biome simulation via elevation, moisture, and temperature maps.
 
 ---
-## ⚠️ Note!!!
-This repo was created to just host the [Wiki](https://github.com/BriannaLadson/TerraForgeProWiki) for the TerraForgePro library, which you can get [here](https://gum.co/u/rwq2bbml).
+## ⚠️ Important Note!!!
+This repo only contains the **Wiki documentation** for [TerraForgePro](https://gum.co/u/rwq2bbml), a **paid** Python map generation library.
 
-If you're looking for the free TerraForge version, click [here](https://github.com/BriannaLadson/TerraForge).
+- 🧭 **No source code is included** in this repository.
+- 🛒 You can [purchase TerraForgePro here on Gumroad](https://gum.co/u/rwq2bbml).
+- 🌱 Looking for the **free version**? Check out [TerraForge on GitHub](https://github.com/BriannaLadson/TerraForge).
 
 ---
 
